@@ -9,3 +9,14 @@
 /Users/admin/Desktop/Tech/unit-7/CSharpExercises1/CSharpExercises1/obj/Debug/netcoreapp2.2/CSharpExercises1.AssemblyInfo.cs
 /Users/admin/Desktop/Tech/unit-7/CSharpExercises1/CSharpExercises1/obj/Debug/netcoreapp2.2/CSharpExercises1.dll
 /Users/admin/Desktop/Tech/unit-7/CSharpExercises1/CSharpExercises1/obj/Debug/netcoreapp2.2/CSharpExercises1.pdb
+/Users/admin/Desktop/Tech/Microsoft LEAP docs/CSharpExercises/CSharpExercises1/CSharpExercises1/obj/Debug/netcoreapp2.2/CSharpExercises1.csprojAssemblyReference.cache
+/Users/admin/Desktop/Tech/Microsoft LEAP docs/CSharpExercises/CSharpExercises1/CSharpExercises1/obj/Debug/netcoreapp2.2/CSharpExercises1.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/Tech/Microsoft LEAP docs/CSharpExercises/CSharpExercises1/CSharpExercises1/obj/Debug/netcoreapp2.2/CSharpExercises1.AssemblyInfoInputs.cache
+/Users/admin/Desktop/Tech/Microsoft LEAP docs/CSharpExercises/CSharpExercises1/CSharpExercises1/obj/Debug/netcoreapp2.2/CSharpExercises1.AssemblyInfo.cs
+/Users/admin/Desktop/Tech/Microsoft LEAP docs/CSharpExercises/CSharpExercises1/CSharpExercises1/obj/Debug/netcoreapp2.2/CSharpExercises1.dll
+/Users/admin/Desktop/Tech/Microsoft LEAP docs/CSharpExercises/CSharpExercises1/CSharpExercises1/obj/Debug/netcoreapp2.2/CSharpExercises1.pdb
+/Users/admin/Desktop/Tech/Microsoft LEAP docs/CSharpExercises/CSharpExercises1/CSharpExercises1/bin/Debug/netcoreapp2.2/CSharpExercises1.deps.json
+/Users/admin/Desktop/Tech/Microsoft LEAP docs/CSharpExercises/CSharpExercises1/CSharpExercises1/bin/Debug/netcoreapp2.2/CSharpExercises1.runtimeconfig.json
+/Users/admin/Desktop/Tech/Microsoft LEAP docs/CSharpExercises/CSharpExercises1/CSharpExercises1/bin/Debug/netcoreapp2.2/CSharpExercises1.runtimeconfig.dev.json
+/Users/admin/Desktop/Tech/Microsoft LEAP docs/CSharpExercises/CSharpExercises1/CSharpExercises1/bin/Debug/netcoreapp2.2/CSharpExercises1.dll
+/Users/admin/Desktop/Tech/Microsoft LEAP docs/CSharpExercises/CSharpExercises1/CSharpExercises1/bin/Debug/netcoreapp2.2/CSharpExercises1.pdb
